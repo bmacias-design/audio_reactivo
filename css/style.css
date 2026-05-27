@@ -1,0 +1,12 @@
+/* css/style.css o style.css (según como lo tengas) */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000; /* Negro puro */
+    overflow: hidden; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+canvas {
+    display: block;
+}
